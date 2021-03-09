@@ -1,11 +1,20 @@
 ## Welcome to The Grocery App
 
 [Shop For Groceries](Shop-For-Groceries.html)
-[Request Assistance](Request-Assistance.html)
-[Checkout](Checkout.html)
-[Returns](Returns.html)
-[Collect Your Groceries](Collect-Your-Groceries.html)
 
+[Request Assistance](Request-Assistance.html)
+
+[Checkout](Checkout.html)
+
+[Pay For Order](Pay-For-Order.html)
+
+[Receive Your Groceries](Receive-Your-Groceries.html)
+
+[Returns](Returns.html)
+
+[Member Login](Member-Login.html)
+
+[Sign Up For Rewards](Sign-Up-For-Rewards.html)
 
 <!-- You can use the [editor on GitHub](https://github.com/franaraque/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
